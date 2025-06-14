@@ -2,11 +2,12 @@
 <br>
 🎓 Computer Science student (Level 300)<br>
 🌐 Web developer — HTML, CSS, JavaScript<br>
-🧠 Strong problem-solving & debugging skills<br>
 📱 Building real-world projects (like mobile apps)<br>
 ⚙️ Learning cloud concepts through self-driven projects<br>
 🚀 Eager to grow and contribute to meaningful tech work<br>
 <br>
+
+
 
 
 # 💻 Tech Stack:
@@ -16,10 +17,15 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=inknikk&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=inknikk&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=inknikk&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=inknikk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
