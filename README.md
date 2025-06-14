@@ -1,4 +1,4 @@
-[![Animated Banner](./banner.gif)](https://inknikk.github.io/myBanner/)
+[![Animated Banner](./Banner.gif)](https://inknikk.github.io/myBanner/)
 
 
 👋 Welcome to my GitHub profile!
