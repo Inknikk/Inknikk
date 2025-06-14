@@ -1,3 +1,8 @@
+[![My Custom Banner](https://inknikk.github.io/mybanner/banner-preview.png)](https://inknikk.github.io/mybanner/)
+
+👋 Welcome to my GitHub profile!
+<br>
+
 👨‍💻 About Me<br>
 <br>
 🎓 Computer Science student (Level 300)<br>
