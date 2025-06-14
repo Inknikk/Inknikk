@@ -1,4 +1,5 @@
-[![My Custom Banner](https://inknikk.github.io/mybanner/banner-preview.png)](https://inknikk.github.io/mybanner/)
+[![My Custom Banner](https://inknikk.github.io/mybanner/banner-preview.png)]
+(https://inknikk.github.io/mybanner/)
 
 👋 Welcome to my GitHub profile!
 <br>
